@@ -1,7 +1,7 @@
 {
-  "version": "3.3.4",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.3.4.zip",
-  "sha256": "93e7a3df07d51d3e16b0bbe6a7ca5b3a2616d7b281cd546e6ee3d362c1b2174e",
-  "publishedAt": "2026-09-13T10:55:00Z",
-  "notes": "cloudflaredの破損・CPU形式不一致を検出し、Windows x64・x86・ARM64に合う公式版へ自動交換。"
+  "version": "3.4.1",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.4.1.zip",
+  "sha256": "220591ccd7e15a2daa7d0f2280255e883745c393f9edbbc6b75d545416ae5e9e",
+  "publishedAt": "2026-09-13T13:00:00Z",
+  "notes": "今年1月1日以降の過去メッセージを管理画面から再集計。進捗・対象外チャンネル数を表示し、集計中も通常運用を継続。"
 }
