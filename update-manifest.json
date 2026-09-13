@@ -1,7 +1,7 @@
 {
-  "version": "3.5.1",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.1.zip",
-  "sha256": "49446174b215e297f78eedfde28b0657ca30ef2cd828f836d4c83fcbc5a87181",
-  "publishedAt": "2026-09-13T13:40:00Z",
-  "notes": "会員モニターを起動中のBotから自動取得する方式へ変更。サーバーID不一致時は会員データのあるサーバーを自動選択。"
+  "version": "3.5.2",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.2.zip",
+  "sha256": "e3858e853a7ad80ac4daabaf9556d07be73e8fdb081363e855f46b7662530515",
+  "publishedAt": "2026-09-13T14:00:00Z",
+  "notes": "新規フォルダーで会員DBが見つからない場合、同じ場所にある旧版Botの登録済み会員データを起動時に自動引継ぎ。"
 }
