@@ -1,7 +1,7 @@
 {
-  "version": "3.5.0",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.0.zip",
-  "sha256": "a5fcc98b80a0aa4a8478f465b42d6872d07e8e0adefacd2b02ba12d826029d44",
-  "publishedAt": "2026-09-13T13:20:00Z",
-  "notes": "Windows管理画面をSecurity Operations Centerデザインへ全面刷新。設定を専用タブへ整理し、ウィンドウの拡大縮小と75～140%の表示倍率変更に対応。"
+  "version": "3.5.1",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.1.zip",
+  "sha256": "49446174b215e297f78eedfde28b0657ca30ef2cd828f836d4c83fcbc5a87181",
+  "publishedAt": "2026-09-13T13:40:00Z",
+  "notes": "会員モニターを起動中のBotから自動取得する方式へ変更。サーバーID不一致時は会員データのあるサーバーを自動選択。"
 }
