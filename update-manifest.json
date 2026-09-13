@@ -1,7 +1,7 @@
 {
-  "version": "3.2.1",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.2.1.zip",
-  "sha256": "6c26892e5b36e34c9c756b6b6a124aa043cc6782125fbd1c08d73c70829a7d3f",
-  "publishedAt": "2026-09-13T06:30:00Z",
-  "notes": "本人確認・会員自動登録、会員リアルタイムモニター、Discordアクティビティ表示を追加。"
+  "version": "3.3.0",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.3.0.zip",
+  "sha256": "14c8fb1bd561e322492101d5dc4230d2738eda2c96a6a5042baf9daf0bedc23d",
+  "publishedAt": "2026-09-13T16:20:00Z",
+  "notes": "Discord Embedded Activity「情保対モニター」、委員会限定認証、会員リアルタイム表示、Cloudflare Tunnel自動導入・起動を追加。"
 }
