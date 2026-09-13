@@ -1,7 +1,7 @@
 {
-  "version": "3.5.2",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.2.zip",
-  "sha256": "e3858e853a7ad80ac4daabaf9556d07be73e8fdb081363e855f46b7662530515",
-  "publishedAt": "2026-09-13T14:00:00Z",
-  "notes": "新規フォルダーで会員DBが見つからない場合、同じ場所にある旧版Botの登録済み会員データを起動時に自動引継ぎ。"
+  "version": "3.5.4",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.4.zip",
+  "sha256": "bfbdb3181307c532f9bd289616dc3c65873ffbea5d6ef33897ec58ae71200c4b",
+  "publishedAt": "2026-09-13T23:30:00Z",
+  "notes": "概要統計の更新と稼働ログ表示を修正。会員モニターに集計カード、検索、在籍状態フィルターを追加し、文字・行間・配色を改善。"
 }
