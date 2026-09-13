@@ -1,7 +1,7 @@
 {
-  "version": "3.3.3",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.3.3.zip",
-  "sha256": "b6ea6b42b907dd5411ed70a90d640bd099918fb86564e79c45866c908eb66597",
-  "publishedAt": "2026-09-13T10:40:00Z",
-  "notes": "既に起動中のBotを管理画面が自動検出し、無料Activity接続時のログファイル使用中エラーを修正。"
+  "version": "3.3.4",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.3.4.zip",
+  "sha256": "93e7a3df07d51d3e16b0bbe6a7ca5b3a2616d7b281cd546e6ee3d362c1b2174e",
+  "publishedAt": "2026-09-13T10:55:00Z",
+  "notes": "cloudflaredの破損・CPU形式不一致を検出し、Windows x64・x86・ARM64に合う公式版へ自動交換。"
 }
