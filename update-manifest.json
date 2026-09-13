@@ -1,7 +1,7 @@
 {
-  "version": "3.5.4",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.4.zip",
-  "sha256": "bfbdb3181307c532f9bd289616dc3c65873ffbea5d6ef33897ec58ae71200c4b",
-  "publishedAt": "2026-09-13T23:30:00Z",
-  "notes": "概要統計の更新と稼働ログ表示を修正。会員モニターに集計カード、検索、在籍状態フィルターを追加し、文字・行間・配色を改善。"
+  "version": "3.5.5",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.5.zip",
+  "sha256": "cb3962dcba6df96e4f158ac6924bc8044fe70ed23259a2ec4eb504e5849dca38",
+  "publishedAt": "2026-09-13T23:40:00Z",
+  "notes": "会員モニターの文字切れと見出し非表示を修正。列幅を確保し、横スクロールと読みやすい配色を追加。フィルターの表示も改善。"
 }
