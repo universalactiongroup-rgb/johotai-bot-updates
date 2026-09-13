@@ -1,7 +1,7 @@
 {
-  "version": "3.3.2",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.3.2.zip",
-  "sha256": "690aa7bb1f4002a48e698c0cb4e033f8139edbcc673d1804c6564793d5438453",
-  "publishedAt": "2026-09-13T10:25:00Z",
-  "notes": "ngrok無料版の警告ページによる白画面を回避するため、管理画面にCloudflare Quick Tunnelのワンクリック接続を追加。"
+  "version": "3.3.3",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.3.3.zip",
+  "sha256": "b6ea6b42b907dd5411ed70a90d640bd099918fb86564e79c45866c908eb66597",
+  "publishedAt": "2026-09-13T10:40:00Z",
+  "notes": "既に起動中のBotを管理画面が自動検出し、無料Activity接続時のログファイル使用中エラーを修正。"
 }
