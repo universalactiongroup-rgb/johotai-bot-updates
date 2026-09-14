@@ -1,7 +1,7 @@
 {
-  "version": "3.5.5",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.5.zip",
-  "sha256": "cb3962dcba6df96e4f158ac6924bc8044fe70ed23259a2ec4eb504e5849dca38",
-  "publishedAt": "2026-09-13T23:40:00Z",
-  "notes": "会員モニターの文字切れと見出し非表示を修正。列幅を確保し、横スクロールと読みやすい配色を追加。フィルターの表示も改善。"
+  "version": "3.5.6",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v3.5.6.zip",
+  "sha256": "28a5bd6f42817a3ab47c6a2a215cfb011f44ec2ed8a5313fd0bfc46bb75739ef",
+  "publishedAt": "2026-09-14T00:05:00Z",
+  "notes": "管理画面を開き直した後、停止ボタンが以前のBotプロセスを停止できない問題を修正。使用中ポートからBotを検出して確実に再起動可能にしました。"
 }
