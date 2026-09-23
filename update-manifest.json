@@ -1,7 +1,7 @@
 {
-  "version": "4.1.6",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.6.zip",
-  "sha256": "14a8b83b04daa96f1fd0178c27f6c9130da7a6169312e7ede5df20f0011e6740",
-  "publishedAt": "2026-09-23T12:00:00Z",
-  "notes": "Activity Webサーバーと管理データサーバーをDiscordログイン・コマンド登録より先に起動。Discord側の待機によるActivityサーバー起動タイムアウトを解消。"
+  "version": "4.1.7",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.7.zip",
+  "sha256": "f5dbbfe7e29ade0ab0d3af44f85b663fc43de989fa4ec79a9afa4de062356cd4",
+  "publishedAt": "2026-09-23T13:15:00Z",
+  "notes": "破損したdatabase.jsonを検出し、書きかけ一時ファイルまたは最新の正常バックアップから自動復旧。破損元は日時付きで保全し、バックアップがない場合は上書きせず安全停止。"
 }
