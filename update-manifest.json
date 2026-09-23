@@ -1,7 +1,7 @@
 {
-  "version": "4.1.0",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.0.zip",
-  "sha256": "97218c7d2a5ede9f246512eaeeab6690b761e6d8d214ce747d1eadbd12291467",
-  "publishedAt": "2026-09-23T10:30:00Z",
-  "notes": "論談会・情報保安対策委員会の正式ロゴを採用し、紺金とシアンの統合デザインへ刷新。Bot・Activityサーバー・無料公開接続をまとめて起動する「サーバーを一括起動」を追加。"
+  "version": "4.1.1",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.1.zip",
+  "sha256": "cd4f2c08d11a4b4e0928305dbedb1a7cb9728fa804ab036557508e21b2980022",
+  "publishedAt": "2026-09-23T10:45:00Z",
+  "notes": "管理センターの「全サーバー＋公開リンクを起動」1回で、必要プログラム確認、Bot、Activity Webサーバー、管理データサーバー、Cloudflare公開リンク発行まで完全自動化。進行状況を1/5～5/5で表示。"
 }
