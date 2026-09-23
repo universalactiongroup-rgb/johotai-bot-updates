@@ -1,7 +1,7 @@
 {
-  "version": "4.1.4",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.4.zip",
-  "sha256": "ebb6b8058879cac7066b67bc21dec28b9427b8dd32191a3b5b8327d0a41dd3fd",
-  "publishedAt": "2026-09-23T11:30:00Z",
-  "notes": "Windows環境によって統合管理センターが起動直後に終了する原因となる非同期自動起動を廃止。起動失敗時も画面を閉じず、エラー内容と稼働ログを表示。"
+  "version": "4.1.5",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.5.zip",
+  "sha256": "c9f6917da7c547355f9ec3dbe2a1bcb4a4055651d7261649849072ede54d2f36",
+  "publishedAt": "2026-09-23T11:45:00Z",
+  "notes": "Bot起動監視ランチャーを追加。起動直後に終了しても終了コード・シグナル・稼働時間・Node.js環境・直前のエラーを統合管理センターへ必ず表示。"
 }
