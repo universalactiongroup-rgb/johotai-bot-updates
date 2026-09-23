@@ -1,7 +1,7 @@
 {
-  "version": "4.1.2",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.2.zip",
-  "sha256": "2857e2f6ed5f17381bb5c555934364613ad57e3ffb97db0a0abccb1757f23fc0",
-  "publishedAt": "2026-09-23T11:00:00Z",
-  "notes": "論談会・情報保安対策委員会ロゴの読み込みを絶対パス方式へ修正。明るい専用プレートで視認性を改善し、管理センターのウィンドウ・タスクバーアイコンにも情保対ロゴを設定。"
+  "version": "4.1.3",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.3.zip",
+  "sha256": "1d53c9a6d2419a3d9ffb90a9f0f88f53312da3dd581c633984022a6c414b2ea0",
+  "publishedAt": "2026-09-23T11:15:00Z",
+  "notes": "統合管理センターを開くだけでBot・Activity Webサーバー・管理データサーバー・Cloudflare公開リンクを自動起動。添付指定の論談会・情報保安対策委員会ロゴへ正式差し替え。"
 }
