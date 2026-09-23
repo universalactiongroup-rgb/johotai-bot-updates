@@ -1,7 +1,7 @@
 {
-  "version": "4.0.0",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.0.0.zip",
-  "sha256": "af26f5828aaded7689740a3fbd0a3841d2f33442abe3caaf433e36abbaf1329e",
-  "publishedAt": "2026-09-14T02:00:00Z",
-  "notes": "マイナスチャンネル規程同意、利用役職付与・撤回、規程再同意、AES-256-GCM暗号化緊急連絡先、閲覧・削除監査、管理画面の安全な件数表示を追加。"
+  "version": "4.1.0",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.0.zip",
+  "sha256": "97218c7d2a5ede9f246512eaeeab6690b761e6d8d214ce747d1eadbd12291467",
+  "publishedAt": "2026-09-23T10:30:00Z",
+  "notes": "論談会・情報保安対策委員会の正式ロゴを採用し、紺金とシアンの統合デザインへ刷新。Bot・Activityサーバー・無料公開接続をまとめて起動する「サーバーを一括起動」を追加。"
 }
