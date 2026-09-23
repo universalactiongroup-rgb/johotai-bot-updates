@@ -1,7 +1,7 @@
 {
-  "version": "4.1.1",
-  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.1.zip",
-  "sha256": "cd4f2c08d11a4b4e0928305dbedb1a7cb9728fa804ab036557508e21b2980022",
-  "publishedAt": "2026-09-23T10:45:00Z",
-  "notes": "管理センターの「全サーバー＋公開リンクを起動」1回で、必要プログラム確認、Bot、Activity Webサーバー、管理データサーバー、Cloudflare公開リンク発行まで完全自動化。進行状況を1/5～5/5で表示。"
+  "version": "4.1.2",
+  "url": "https://raw.githubusercontent.com/universalactiongroup-rgb/johotai-bot-updates/main/Johotai_Security_Management_Bot_v4.1.2.zip",
+  "sha256": "2857e2f6ed5f17381bb5c555934364613ad57e3ffb97db0a0abccb1757f23fc0",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "notes": "論談会・情報保安対策委員会ロゴの読み込みを絶対パス方式へ修正。明るい専用プレートで視認性を改善し、管理センターのウィンドウ・タスクバーアイコンにも情保対ロゴを設定。"
 }
